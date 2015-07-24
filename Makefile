@@ -1,6 +1,6 @@
 # vim: sw=8 ts=8
 
-CC	=ccache gcc -march=i686 --std=gnu99
+CC	=gcc -pipe --std=gnu99
 MODE	=
 CFLAGS	=-Os -Wall -pedantic `getconf LFS_CFLAGS` -g
 LDFLAGS	=${MODE} `getconf LFS_LDFLAGS` -g
