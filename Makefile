@@ -3,6 +3,8 @@
 CC	=gcc -pipe --std=gnu99
 MODE	=
 CFLAGS	=-Os -Wall -pedantic `getconf LFS_CFLAGS` -g
+CFLAGS	+=-D_FILE_OFFSET_BITS=64 -fPIC
+
 LDFLAGS	=${MODE} `getconf LFS_LDFLAGS` -g
 LDLIBS	=-lfuse -ldl
 
