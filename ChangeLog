@@ -1,0 +1,28 @@
+2017-12-01  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* .gitignore: Basket of ignorables
+
+2017-12-01  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* Makefile: Removed bit rot.
+
+2015-07-24  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* : Don't archive generated file.
+
+2015-07-24  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* : Merge remote-tracking branch 'upstream/master'
+
+2015-07-24  Tommy Reynolds <oldest.software.guy@gmail.com>
+
+	* README.md: Initial commit
+
+2015-07-24  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* : Don't archive generated files.
+
+2010-09-21  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* Converted to git
+
